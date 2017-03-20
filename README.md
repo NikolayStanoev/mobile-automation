@@ -4,8 +4,8 @@ The idea of this project is to help people who wants to start with automated mob
 
 **WIKI**
 * [Home](https://github.com/NikolayStanoev/mobile-automation/wiki)
-* [How To - BrowserStack] (https://github.com/NikolayStanoev/mobile-automation/wiki/How-To-%E2%80%90-BrowserStack)
-* [How To - Sauce Labs] (https://github.com/NikolayStanoev/mobile-automation/wiki/How-To-%E2%80%90-Sauce-Labs)
+* [How To - BrowserStack](https://github.com/NikolayStanoev/mobile-automation/wiki/How-To-%E2%80%90-BrowserStack)
+* [How To - Sauce Labs](https://github.com/NikolayStanoev/mobile-automation/wiki/How-To-%E2%80%90-Sauce-Labs)
 
 **How To - Local**
 * [Setup - iOS](https://github.com/NikolayStanoev/mobile-automation/wiki/Setup-%E2%80%90-iOS)
